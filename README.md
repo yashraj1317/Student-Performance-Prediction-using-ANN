@@ -83,16 +83,9 @@ pip install streamlit pandas scikit-learn
 
 ## 📷 Application Preview
 
-> Add screenshots here after uploading them to the repository.
-
-Example:
-
-```
 Student Performance Prediction using ANN.png
 Student Performance Prediction using ANN 2.png
-```
 
----
 
 ## 📈 Model
 
